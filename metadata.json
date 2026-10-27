@@ -1,0 +1,6 @@
+{
+  "name": "Smart Coconut Health AI",
+  "description": "AI-Powered Early Coconut Tree Disease Detection, 360° Camera Monitoring, and GPS Farm Early Warning System with Tamil & English support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
